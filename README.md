@@ -1,1 +1,1 @@
-# PracticalTest02
+Dobre Andrei 343C1
