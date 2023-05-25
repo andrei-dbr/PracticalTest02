@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Test</string>
+    <string name="server">Server</string>
+    <string name="port">Port</string>
+    <string name="connect">Connect</string>
+    <string name="client">Client</string>
+    <string name="adresa">Adresa</string>
+    <string name="send_request">Send Request</string>
+    <string name="key">key</string>
+    <string name="value">value</string>
+</resources>
